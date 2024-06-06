@@ -1,1 +1,1 @@
-Update Colab notebook for YOLOv8.1 (#8660)
+Use pathlib in DOTA ops (#7552)
